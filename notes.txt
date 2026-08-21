@@ -1,0 +1,2 @@
+Project Notes:
+This project is for our Git and GitHub laboratory activity.
